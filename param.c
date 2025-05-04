@@ -8,8 +8,6 @@
 
 */
 
-#include <stdio.h>
-
 int MinElem(int A[], int N) {
     int min = A[0];
     for (int i = 1; i < N; i++) {
